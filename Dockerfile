@@ -1,6 +1,6 @@
 ARG SAMBA_VERSION=4.16.8
 
-FROM alpine:3.17
+FROM alpine:3.17.1
 
 ENV TZ="UTC"
 
